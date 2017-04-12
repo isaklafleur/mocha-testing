@@ -1,0 +1,26 @@
+{
+  "name": "mocha-testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isaklafleur/mocha-testing.git"
+  },
+  "bugs": {
+    "url": "https://github.com/isaklafleur/mocha-testing/issues"
+  },
+  "homepage": "https://github.com/isaklafleur/mocha-testing#readme",
+  "description": "",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb-base": "^11.1.3",
+    "eslint-plugin-import": "^2.2.0",
+    "mocha": "^3.2.0"
+  }
+}
